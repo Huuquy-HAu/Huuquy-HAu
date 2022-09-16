@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1 align= "center"> Hi I'm Dương Hữu Quý </h1>
 
 <!--
 **Huuquy-HAu/Huuquy-HAu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
