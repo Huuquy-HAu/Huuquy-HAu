@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align= "center"> Hi I'm Dương Hữu Quý </h1>
-<h3 align= "center"> I'm Full Stack JavaScript Developer</h3>
+<h3 align= "center"> I'm Front End Web Developer</h3>
 
 
 
